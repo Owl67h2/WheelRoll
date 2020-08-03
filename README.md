@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en-us">
     <head>
-        <meta charset="utf-8">
+        <meta charset="UTF-8">
         <title>Wheel Roll</title>
         <style>
             .gold {
@@ -18,7 +18,7 @@
     <h1>Wheel Roll<br><strong><span class="gold">By:Aiden Reben</span></strong></h1>
     <h1>The Champions</h1>
     <ol>
-        <li>Aiden wheel:Wheeleny move: <span class="gold">Ultmate Adrenchen Kevreo</span></li>
+        <li>Aiden wheel:Wheeleny move: <span class="gold">Ultmate Adrenchen Kevreo 3 times</span></li>
         <li>Aiden wheel:Wheeleo move: <span class="kingfisher-blue">Ultmate Adrenchen Kevreo</span></li>
     </ol>
     <h2>Why Wheeleny is a Champipon</h2>
