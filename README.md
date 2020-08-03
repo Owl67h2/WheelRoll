@@ -29,7 +29,6 @@
     <h1>The moves</h1>
     <p>Here is a list of moves orderd from least faumos to most famous</p>
     <h6>More games</h6>
-    <a href="http://localhost:63342/kingfisher%20prester%20hummingbird%20prester%20HTML%205%20Wheel%20roll/prester.snuggle%20hummingbird/prester%20snuggl
-    e%20hummingbird.html?_ijt=5118uo16qomm2l4892i2qi0uli">wheel race</a>
+
     <body
 </html>
